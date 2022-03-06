@@ -1,7 +1,13 @@
 It allows to control your Desktop in VR. (only Windows)
 I used an open Source Asset from 2013 --> https://forum.unity.com/threads/vr-desktop-mirror-asset-x-windows-and-htc-vive.406662/
 
-I updated it to the new Steam VR Input system 2022 AND implemented Handtacking to control with Leap Motion and gesture recognizing. Was used with the VR Headset HTC Vive
+I updated it to the new Steam VR Input system 2022 AND implemented Handtacking to control with Leap Motion and gesture recognizing. Was used with the VR Headset HTC Vive. 
+
+You can:
+- de-/activate controll of VR and Handtracking
+- adjuste Key assignment of controller
+- code new gestures
+- assign gestures for different controlls
 
 # Handtracking
 I tested the Handtracking Systems 
