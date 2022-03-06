@@ -24,4 +24,4 @@ https://user-images.githubusercontent.com/56310257/156936104-01a883bf-b015-4479-
 <img width="1318" alt="VRController" src="https://user-images.githubusercontent.com/56310257/156935764-16153a06-6df6-40b2-88c5-0f45e9e2850d.png">
 
 
-
+--> the finished project was a unity package you can add as asset in your unity project
