@@ -23,20 +23,5 @@ https://user-images.githubusercontent.com/56310257/156936104-01a883bf-b015-4479-
 ### VR
 <img width="1318" alt="VRController" src="https://user-images.githubusercontent.com/56310257/156935764-16153a06-6df6-40b2-88c5-0f45e9e2850d.png">
 
-## Insights of finished Asset 
-
-### Hierachy
-![Hierachy](https://user-images.githubusercontent.com/56310257/156935782-aeddbe85-fe5c-4edc-b99d-388fa7ea3f40.PNG)
-
-### Inspector
-<img width="659" alt="Inspector_klein" src="https://user-images.githubusercontent.com/56310257/156936189-cf46fb6e-f0ec-4649-a872-4b226c802b72.png">
 
 
-### Wiki 
-_written of me while developing_
-
-![Unbenannt](https://user-images.githubusercontent.com/56310257/156935600-62edd403-5d67-4fd3-bfd2-e2486270ef81.PNG)
-![Unbenannt2](https://user-images.githubusercontent.com/56310257/156935601-6994d303-6fac-4fe9-bce9-8af4b6354456.PNG)
-![Unbenannt3](https://user-images.githubusercontent.com/56310257/156935604-52c6e6b1-5b70-4b8f-bbee-bbe223386157.PNG)
-![Unbenannt4](https://user-images.githubusercontent.com/56310257/156935607-622411fe-280e-44a2-a433-f04405004cd4.PNG)
-![Unbenannt5](https://user-images.githubusercontent.com/56310257/156935610-5cfab9a5-4530-4602-80d1-deaeb1abb69f.PNG)
